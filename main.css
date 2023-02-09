@@ -1,0 +1,332 @@
+
+@import url('https://fonts.googleapis.com/css2?family=La+Belle+Aurore&family=Montserrat:wght@100&family=PT+Sans+Narrow&family=Rajdhani:wght@300;400;500;600;700&family=Roboto+Mono:ital,wght@0,100;0,200;0,300;0,400;1,100;1,200;1,300&family=Roboto:ital,wght@0,100;0,300;0,400;0,900;1,900&family=Shadows+Into+Light&display=swap');
+
+
+.navbar ul {
+    top: 10px;
+    position: relative;
+    left: 230px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+
+}
+
+.navbar ul li {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navbar a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+}
+.navbar img {
+    position: absolute;
+    top: 2px;
+    left: -153px;
+}
+.img3{
+    position: absolute;
+    top: 35px;
+    left: 1380px;
+}
+
+
+.button { 
+    border: 1px solid #bcd0e5;
+    border-radius: 3px;
+    background: white;
+    position: relative;
+    font-size: 18px;
+    left: 10px;
+    padding: 3px 13px;
+    margin-left: 5px;
+    width: 102px;
+    height:43px ;
+    border-radius: 4px;
+    
+}
+.button2 {
+    position: absolute;
+    top: 27px;
+    border: none;
+    border-radius: 3px;
+    background: #02897a;
+    color: white;
+    padding: 3px 15px;
+    font-size: 18px;
+    left: 1205px;
+    margin-left: 30px;
+    width: 110px;
+    height:43px ;
+    border-radius: 4px;
+    
+ 
+}
+
+
+
+.img4 h1{
+    position: absolute;
+    top: 80px;
+    left: 100px;
+    font-family: Roboto;
+    width: 518px;
+    height: 120px;
+    
+}
+.img4 img {
+    position: absolute;
+    top: 30px;
+    left: 850px;
+    width: 550px;
+    height: 550px;
+}
+.img4 p{
+    position: absolute;
+    width: 458px;
+    height: 95px;
+    top: 190px;
+    left: 100px;
+}
+
+.h1{
+    position: absolute;
+    font-family:Roboto ;
+    left: 100px;
+    margin-top: 100px;
+}
+
+.button3{
+    position: absolute;
+    top: 299px;
+    left: 100px;
+    background-color: #02897a;
+    color: white;
+    width: 140px;
+    padding: 10px;
+    border: none;
+  
+}
+
+.button4{
+    position: absolute;
+    top: 397px;
+    left: 250px;
+    border: none;
+    background-color: white;
+    color: #02897a;
+    font-size: 18px;
+    margin:10px ;
+   
+}
+
+.h2 h1{
+    position: absolute;
+    top: 800px;
+    left: 550px;
+    text-align: center;
+    font-family: Roboto;
+}
+.h2 img{
+    position: absolute;
+    top: 950px;
+    left: 190px;
+}
+.h2 h2{
+    position: absolute;
+    top: 1010px;
+    left: 190px;
+    font-family: Roboto;
+}
+.h2 p{
+    position: absolute;
+    top: 1070px;
+    left: 190px;
+}
+.first{
+    position: absolute;
+    top: 979px;
+    left: 100px;
+    font-family: Roboto;
+}
+.last{
+    position:absolute;
+    top: 980px;
+    left: 450px;
+    font-family: Roboto;
+}
+.img4{
+    position: absolute;
+    top: 100px;
+}
+.icon{
+  position: absolute;
+  left: 800px;
+  top: 985px;
+  font-family: Roboto;
+}
+
+.skip{
+   position: absolute; 
+   
+}
+
+.h3 img{
+    position: absolute;
+    top: 949px;
+    left: 550px;
+    font-family: Roboto;
+}
+.h3 h2{
+    position: absolute;
+    top: 1010px;
+    left: 560px;
+    font-family: Roboto;
+}
+.h3 p{
+    position: absolute;
+    top: 1070px;
+    left: 560px;
+}
+.h4 img{
+    position: absolute;
+    top: 949px;
+    left: 850px;
+}
+.h4 h2{
+    position: absolute;
+    top: 1010px;
+    left: 860px;
+    font-family: Roboto;
+}
+.h4 p{
+    position: absolute;
+    top: 1070px;
+    left: 865px;
+}
+.h5 img{
+    position: absolute;
+    top: 950px;
+    left: 1139px;
+}
+.h5 h2{
+    position: absolute;
+    top: 1010px;
+    left: 1140px;
+    font-family: Roboto;
+}
+.h5 p{
+    position: absolute;
+    top: 1070px;
+    left: 1140px;
+}
+.h5 button{
+    position: absolute;
+    top: 1300px;
+    left: 700px;
+    background:#02897a ;
+    color: white;
+    border: none;
+    padding: 15px 32px;
+    font-size: 18px;
+    border-radius: 4px;
+
+}
+.management p{
+    position: absolute;
+    top: 1500px;
+    left: 250px;
+}
+.management h1{
+    position: absolute;
+    top: 1530px;
+    left: 250px;
+    font-family: Roboto;
+}
+.management img{
+    position: absolute;
+    top: 1550px;
+    left: 750px;
+}
+.p2{
+    position: absolute;
+    top: 1700px;
+    left: 249px;
+    font-family: Roboto;
+}
+.Alterationists{
+    position: absolute;
+    top: 1900px;
+    left: 249px;
+    font-family: Roboto;
+}
+.customer img{
+    position: absolute;
+    top: 2050px;
+    left: 229px;
+   
+}
+.customer p {
+    position: absolute;
+    top: 2060px;
+    left: 849px;
+    font-family: Roboto;
+}
+.customer h1 {
+    position: absolute;
+    top: 2090px;
+    left: 849px;
+    font-family: Roboto;
+}
+.the p{
+    position: absolute;
+    top: 2189px;
+    left: 849px;
+}
+.the img{
+    position: absolute;
+    top: 2289px;
+    left: 849px;
+}
+
+.pp p{
+    position: absolute;
+    top: 2277px;
+    left: 899px;
+}
+.pp2{
+    position: absolute;
+    top: 2377px;
+    left: 850px;
+}
+.pp3{
+    position: absolute;
+    top: 2368px;
+    left: 899px;
+}
+.pp4{
+    position: absolute;
+    top: 2458px;
+    left: 850px;
+}
+.pp5{
+    position: absolute;
+    top: 2448px;
+    left: 899px;
+}
+.pp6{
+    position: absolute;
+    top: 2710px;
+    right: 200px;
+}
+.pp7{
+   position: absolute;
+   top: 2200px;
+}
